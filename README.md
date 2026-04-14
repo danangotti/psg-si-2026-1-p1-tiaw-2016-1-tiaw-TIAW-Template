@@ -1,17 +1,22 @@
 # Informações do Projeto
 `TÍTULO DO PROJETO`  
-
+Alerta Já - Prevenção a Desastres Naturais
 Trabalho Interdisciplinar - Aplicacões Web
 
 `CURSO`
+Sistemas da Informação
 
 `SEMESTRE`
+Primeiro - 26/1
 
 ## Participantes
 
 Os membros do grupo são: 
-- Fulano da Silva
-- Ciclano Albuquerque
+- Dan Lucca Angotti Duarte
+- Tiago Malta Leão
+- Ferlanio Duarte
+- Gabriel Viera de Souza
+- Rafael Almeida
 
 > Inclua a lista dos membros da equipe com seus nomes completos.
 
@@ -49,3 +54,4 @@ Aprenda Markdown e use-o para documentar o projeto
 > [Sintaxe básica de gravação e formatação no GitHub](https://guides.github.com/features/mastering-markdown/)
 
 > [Suporte Github](https://help.github.com/pt/github/writing-on-github/getting-started-with-writing-and-formatting-on-github)
+
