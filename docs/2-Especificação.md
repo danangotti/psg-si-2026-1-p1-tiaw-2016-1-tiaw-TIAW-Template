@@ -8,12 +8,21 @@
 
 ## Personas
 
-Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em
-se desenvolver profissionalmente através de um mestrado fora do país,
-pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está
-buscando uma agência que o ajude a encontrar universidades na Europa
-que aceitem alunos estrangeiros.
+Persona 1 — Maria da Silva
 
+Maria da Silva tem 45 anos, é costureira autônoma e mora em uma área de risco sujeita a enchentes. Passa a maior parte do tempo em casa, onde trabalha e cuida da família. É uma pessoa batalhadora, protetora e muito conectada com os vizinhos, porém fica ansiosa durante períodos de chuvas fortes.
+
+Utiliza principalmente o celular (WhatsApp), além de televisão e rádio quando possível. Seu principal objetivo é receber alertas antecipados para saber o momento certo de agir, protegendo sua família e seus bens.
+
+Maria tem dificuldade com termos técnicos e não confia em informações desencontradas ou fake news. Prefere orientações simples, diretas e confiáveis.
+
+Persona 2 — João Carlos
+
+João Carlos tem 38 anos, trabalha como motorista e também mora em uma região vulnerável a alagamentos. Passa grande parte do dia fora de casa, mas se preocupa constantemente com a segurança da família.
+
+Utiliza o celular com frequência e busca informações rápidas e objetivas. Em situações de emergência, precisa tomar decisões rápidas, como escolher rotas seguras ou avisar familiares.
+
+João valoriza praticidade e confiabilidade, e sente dificuldade quando as informações são confusas ou chegam tarde demais.
 
 > Enumere e detalhe as personas da sua solução. Para
 > tanto, baseie-se tanto nos documentos disponibilizados na disciplina
@@ -34,10 +43,14 @@ que aceitem alunos estrangeiros.
 
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
 
-|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
-|--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
+ EU COMO...                      | QUERO/PRECISO ... (FUNCIONALIDADE)            | PARA ... (MOTIVO/VALOR)               |
+| ------------------------------- | --------------------------------------------- | ------------------------------------- |
+| Moradora de área de risco       | Receber alertas no celular antes de desastres | Ter tempo de proteger minha família   |
+| Usuária do sistema              | Visualizar rotas de fuga seguras              | Saber para onde ir em emergências     |
+| Moradora do bairro              | Receber informações simples e claras          | Não ficar confusa com termos técnicos |
+| Mãe de família                  | Avisar meus familiares rapidamente            | Garantir que todos estejam seguros    |
+| Usuária                         | Localizar abrigos próximos                    | Me proteger em caso de enchente       |
+| Pessoa preocupada com segurança | Receber informações confiáveis                | Não cair em fake news                 |
 
 > Apresente aqui as histórias de usuário que são relevantes para o
 > projeto de sua solução. As Histórias de Usuário consistem em uma
