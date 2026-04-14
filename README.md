@@ -1,19 +1,24 @@
 # Informações do Projeto
 `TÍTULO DO PROJETO`  
-
+Alerta Já - Prevenção a Desastres Naturais
 Trabalho Interdisciplinar - Aplicacões Web
 
+
 `CURSO`
+Sistemas da Informação
 
 `SEMESTRE`
+Primeiro - 26/1
 
 ## Participantes
 
 Os membros do grupo são: 
-- Fulano da Silva
-- Ciclano Albuquerque
+- Dan Lucca Angotti Duarte
+- Tiago Malta Leão
+- Ferlanio Duarte
+- Gabriel Viera de Souza
+- Rafael Almeida
 
-> Inclua a lista dos membros da equipe com seus nomes completos.
 
 # Estrutura do Projeto
 
